@@ -1,0 +1,5 @@
+-I can't find a way to compile pkg-config
+	- triyed in userspace [*] Failed --$HOME prefixes lib/bins
+	- userspace with shared dirs /usr/local.. [+] Failed
+	- Package manager tested too, and sames to be something missing
+
